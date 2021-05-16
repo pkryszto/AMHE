@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMHE", "AMHE\AMHE.csproj", "{B6BE4DE4-1AA5-4633-8275-0E8C6B2D5028}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6BE4DE4-1AA5-4633-8275-0E8C6B2D5028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6BE4DE4-1AA5-4633-8275-0E8C6B2D5028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6BE4DE4-1AA5-4633-8275-0E8C6B2D5028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6BE4DE4-1AA5-4633-8275-0E8C6B2D5028}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6962C63-5FB6-4B93-904E-87DC730ACA34}
+	EndGlobalSection
+EndGlobal
